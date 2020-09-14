@@ -1,2 +1,2 @@
-# deep-orderbook
-Deep learning modelling of orderbooks 
+# DeepLOB-orderbook
+- Analysis of the orderbook using Temporal CNNs for short term price movement.
